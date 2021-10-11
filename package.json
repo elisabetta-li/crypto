@@ -7,9 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@j-t-mcc/vue3-chartjs": "^1.1.4",
+    "chart.js": "^3.5.1",
+    "chartjs-plugin-datalabels": "^2.0.0",
+    "chartjs-plugin-zoom": "^1.1.1",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
+    "vue-chartjs": "^3.5.1",
     "vue-router": "^4.0.0-0",
+    "vue3-charts": "^1.1.22",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
